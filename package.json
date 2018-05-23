@@ -1,0 +1,13 @@
+{
+  "name": "24.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js",
+    "test:watch": "mocha -w -b index.test.js"
+  },
+  "keywords": [],
+  "author": "DJ",
+  "license": "ISC"
+}
